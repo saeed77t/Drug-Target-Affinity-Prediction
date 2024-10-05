@@ -4,3 +4,5 @@
 /.conda
 /.ipynb_checkpoints
 /KibaContactMaps
+/KibaValidSequences
+/ProteinGraphs
