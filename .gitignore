@@ -9,3 +9,9 @@
 /molecule_graphs
 /kiba_dataset/molecules
 /prepared_samples
+full graphs.zip
+graphs.zip
+graphs/
+incremental_prepared_dataset.pkl
+prepared_samples.zip
+
