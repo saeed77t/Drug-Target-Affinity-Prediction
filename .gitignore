@@ -13,5 +13,11 @@
 /prepared_samples
 /TrainingModel
 /Proteinsequence
+server/ProteinGraphs/
+server/molecule_graphs/
+server/prepared_samples/
+server/data/
+seevr/.ipynb_checkpoints
+
 
 
